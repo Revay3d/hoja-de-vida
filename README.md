@@ -36,7 +36,7 @@ Me gusta programar, crear **programas**, **jueguitos** simples y experimentar co
 🌐 [Ver la página](https://revaydev.github.io/hoja-de-vida/)
 
 > [!NOTE]
-> Este repo fue creado para un parcial de desarroollo web para la univercidad, asi quetiene algunos erores.
+> Este repo fue creado para un parcial de desarroollo web para la univercidad, asi que tiene algunos errores.
 
 ---
 
